@@ -1,4 +1,4 @@
-# sfnt2woff_ruby
+# sfnt2woff_ruby ruby gem
 Ruby wrapper for sfnt2woff developed by the people of Mozilla
 
 sfnt2woff converts .ttf or .otf fonts to .woff fonts. Project's homepage can be found here: https://people.mozilla.org/~jkew/woff/
