@@ -6,9 +6,9 @@ sfnt2woff converts .ttf or .otf fonts to .woff fonts. Project's homepage can be 
 Installation
 =======
 
-gem install sfn2woff
+gem install sfnt2woff
 
-or but in gemfile
+or gemfile: gem "sfnt2woff"
 
 Usage
 =======
