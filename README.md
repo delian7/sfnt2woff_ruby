@@ -13,6 +13,8 @@ or but in gemfile
 Usage
 =======
 
-Sfnt2Woff.hi(font_path) 
+require 'sfnt2woff'
 
---> .woff outputs in the same folder
+Sfnt2Woff.convert_to_woff(font_path)
+
+==> Outputs .woff font in the same folder as the font_path
