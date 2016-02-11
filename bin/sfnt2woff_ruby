@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'sfnt2woff_ruby'
+puts Sfnt2Woff.hi(ARGV[0])
